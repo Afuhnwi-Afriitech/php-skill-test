@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <item>
+    <id>1</id>
+    <product_name>khjg</product_name>
+    <quantity>25</quantity>
+    <price>2</price>
+    <total>50</total>
+    <datetime>2025-08-18T22:01:15+00:00</datetime>
+  </item>
+  <item>
+    <id>2</id>
+    <product_name>beans</product_name>
+    <quantity>5</quantity>
+    <price>7</price>
+    <total>35</total>
+    <datetime>2025-08-18T22:01:50+00:00</datetime>
+  </item>
+  <item>
+    <id>3</id>
+    <product_name>Gari</product_name>
+    <quantity>1</quantity>
+    <price>2</price>
+    <total>2</total>
+    <datetime>2025-08-18T22:05:03+00:00</datetime>
+  </item>
+</inventory>

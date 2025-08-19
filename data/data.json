@@ -1,0 +1,29 @@
+{
+    "last_id": 3,
+    "items": [
+        {
+            "id": 1,
+            "product_name": "khjg",
+            "quantity": 25,
+            "price": 2,
+            "total": 50,
+            "datetime": "2025-08-18T22:01:15+00:00"
+        },
+        {
+            "id": 2,
+            "product_name": "beans",
+            "quantity": 5,
+            "price": 7,
+            "total": 35,
+            "datetime": "2025-08-18T22:01:50+00:00"
+        },
+        {
+            "id": 3,
+            "product_name": "Gari",
+            "quantity": 1,
+            "price": 2,
+            "total": 2,
+            "datetime": "2025-08-18T22:05:03+00:00"
+        }
+    ]
+}
