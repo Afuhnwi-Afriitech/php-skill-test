@@ -5,7 +5,7 @@
 2. Visit `index.php` in your browser.
 
 **What it does**
-- Form: Product name, Quantity in stock, Price per item.
+- Form: Product name, Quantity in stock, Price per item
 - Saves submitted data to **JSON** (`data/data.json`) and mirrors to **XML** (`data/data.xml`) with valid syntax.
 - Displays all submitted rows ordered by *Datetime submitted* (most recent first).
 - Shows **Total value number** per row (Quantity × Price) and a final **Sum total** across all rows.
